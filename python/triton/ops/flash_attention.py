@@ -6,6 +6,8 @@ This is a Triton implementation of the Flash Attention algorithm
 
 Sequence Parallel implementation inspired by HazyResearch
 (see https://github.com/HazyResearch/flash-attention/blob/main/flash_attn/flash_attn_triton.py)
+
+flash attention
 """
 
 import torch
